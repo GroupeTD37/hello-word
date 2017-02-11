@@ -1,2 +1,3 @@
 # hello-word
 Bienvenue dans le Groupe N°37
+Afin de mieux s'echanger les series d'exam et renforment les liens entre étudiants cette plateform.....
